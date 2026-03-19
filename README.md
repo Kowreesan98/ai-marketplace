@@ -104,4 +104,5 @@ Frontend runs on http://localhost:3000.
 
 ## AI Tooling Used
 
+- **Claude AI**
 - **Kilo Code** (VS Code)
